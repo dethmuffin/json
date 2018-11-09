@@ -1,7 +1,7 @@
 {
     "name": "Sample NFI using ID substition Cryptoitem",
     "description": "I am using ID substitution",
-    "image": "https:\/\/s3.amazonaws.com\/your-bucket\/images\/{id}.png",
+    "image": "https:\/\/cdn.enjincoin.io\/files\/development\/dethmuffin\/json\/images\/{id}.png",
     "properties": {
         "simple_property": "example value",
         "rich_property": {
